@@ -1,7 +1,7 @@
 # Word guessing game 
 This repo will contain a fork of Word Tuah, a brain rot version of Wordle made by The-CodingSloth. 
 Only instead of Word Tuah it would be a serious Lenape Language word guessing game with a definition. 
-Development started on 2025-12-07, idea on 2025-12-06. 2025-12-08 at 1:45 AM is when this fork went public. 
+Development started on 2025-12-07, idea on 2025-12-06. 2025-12-08 at 1:56 AM is when this fork went public. 
 See the Daily Changelog file for the Daily Changelog.  
 
 ## Tech Stack
