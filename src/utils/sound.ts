@@ -1,3 +1,4 @@
+/*
 class SoundManager {
   private sounds: { [key: string]: HTMLAudioElement } = {};
   private enabled: boolean = true;
@@ -30,3 +31,4 @@ class SoundManager {
 }
 
 export const soundManager = new SoundManager();
+ */

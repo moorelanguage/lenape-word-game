@@ -20,42 +20,29 @@ const ANIMATIONS = {
   TILE: {
     // Animation when user types a new letter
     TYPING: {
-      scale: [1, 3, 1], // Pop effect: normal → 3x size → normal
+      scale: [1], // very subtle pop
       transition: { duration: 0.2, ease: 'easeOut' },
     },
     // Animation when revealing correctness of a letter
     REVEALING: {
-      scale: [1, 0.8, 5, 1], // Dramatic pop: normal → shrink → expand → normal
-      rotateX: [0, 10, -10, 0], // Shake effect
-      opacity: [1, 0.5, 1], // Subtle fade in/out
+        // No pop scale, just a smooth flip
+      scale: 1,
+      opacity: 1,
       transition: (wordLength: number, tileIndex: number) => ({
-        scale: {
-          duration: Math.max(
-            0.08,
-            0.25 - (wordLength - 5) * 0.01 - tileIndex * 0.02
-          ),
-          ease: 'easeInOut',
-        },
-        opacity: {
-          duration: Math.max(
-            0.08,
-            0.25 - (wordLength - 5) * 0.01 - tileIndex * 0.02
-          ),
-          ease: 'easeInOut',
-        },
-        backgroundColor: {
-          duration: Math.max(
-            0.05,
-            0.12 - (wordLength - 5) * 0.005 - tileIndex * 0.01
-          ),
-        },
-        color: {
-          duration: Math.max(
-            0.05,
-            0.12 - (wordLength - 5) * 0.005 - tileIndex * 0.01
-          ),
-        },
-      }),
+      backgroundColor: {
+        duration: 0.3,            // color changes during flip
+        delay: tileIndex * 0.1 + 0.3, // after rotation reaches halfway
+      },
+      color: {
+        duration: 0.3,
+        delay: tileIndex * 0.1 + 0.3,
+      },
+      opacity: {
+        duration: 0.3,
+        ease: 'easeInOut',
+      },
+    }),
+  },
     },
     // Default state for idle tiles
     DEFAULT: {
@@ -67,7 +54,6 @@ const ANIMATIONS = {
         damping: 30, // Moderate dampening (less bouncy)
       },
     },
-  },
 } as const;
 
 interface GameBoardProps {

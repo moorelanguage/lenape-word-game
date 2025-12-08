@@ -10,7 +10,6 @@ import Modal from './components/Modal';
 import Toast from './components/Toast';
 import Nav from './components/Nav';
 import Footer from './components/Footer';
-import { soundManager } from './utils/sound';
 
 function App() {
   const [targetWord, setTargetWord] = useState<string>('');
@@ -263,18 +262,6 @@ function App() {
     document.documentElement.classList.toggle('dark-mode', isDarkMode);
     localStorage.setItem('darkMode', isDarkMode.toString());
   }, [isDarkMode]);
-
-  // Update sound manager when sound setting changes
-  useEffect(() => {
-    soundManager.setEnabled(isSoundEnabled);
-  }, [isSoundEnabled]);
-
-  // Play sound when modal shows
-  useEffect(() => {
-    if (showModal) {
-      soundManager.play(gameWon ? 'win' : 'fail');
-    }
-  }, [showModal, gameWon]);
 
   // Detect if device is mobile and track screen width
   useEffect(() => {

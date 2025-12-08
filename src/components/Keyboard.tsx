@@ -48,9 +48,9 @@ const Keyboard: React.FC<KeyboardProps> = ({
   };
 
   const rows = [
-    ['Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P'],
-    ['A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L'],
-    ['ENTER', 'Z', 'X', 'C', 'V', 'B', 'N', 'M', 'BACKSPACE'],
+    ['A', 'C', 'H', 'I', 'K', 'L', 'M', 'N'],
+    ['O', 'P', 'S', 'T', 'U', 'X', 'Y'],
+    ['ENTER', '-', "'", 'BACKSPACE'],
   ];
 
   const handleKeyClick = (key: string) => {

@@ -6,35 +6,26 @@ const Footer: React.FC = () => {
       <div className="footer-wrapper">
         <div className="footer-content">
           <div className="footer-text">
-            Hey, I'm The Coding Sloth and I started this terrible website:
+            Hey, I'm Moorelanguages and I made this game with a fork via The-CodingSloth and his "brainrot-games":
           </div>
           <nav className="footer-links" aria-label="Footer navigation">
-            <a
-              href="https://www.youtube.com/@TheCodingSloth"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="footer-link"
-              aria-label="YouTube channel"
-            >
-              YouTube
-            </a>
-            <a
-              href="https://slothbytes.beehiiv.com/subscribe"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="footer-link"
-              aria-label="Newsletter subscription"
-            >
-              Newsletter
-            </a>
             <a
               href="https://github.com/The-CodingSloth/brainrot-games"
               target="_blank"
               rel="noopener noreferrer"
               className="footer-link"
-              aria-label="GitHub repository"
+              aria-label="Coding Sloth's Github Repository"
             >
-              GitHub
+              Coding Sloth's Github Repository
+            </a>
+            <a
+              href="https://github.com/moorelanguage"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="footer-link"
+              aria-label="My GitHub repository"
+            >
+              My GitHub Repository
             </a>
           </nav>
         </div>

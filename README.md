@@ -1,23 +1,30 @@
-# Brainrot games
-
-## This README was made with AI (i'm too lazy to write it)
-
-This repo will contain a collection of brainrot games.
-For now, it only contains Word Tuah. A brain rot version of Wordle.
+# Word guessing game 
+This repo will contain a fork of Word Tuah, a brain rot version of Wordle made by The-CodingSloth. 
+Only instead of Word Tuah it would be a serious Lenape Language word guessing game with a definition. 
+Development started on 2025-12-07, idea on 2025-12-06. 2025-12-08 at 1:45 AM is when this fork went public. 
+See the Daily Changelog file for the Daily Changelog.  
 
 ## Tech Stack
 
 - React
+- [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)  
 - TypeScript
+- [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 - Vite
+- [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 - Motion for animations
+- Notepad++ as my IDE
+- [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#) as my IDE
+- VS Code also as my IDE
+- [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+
 
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/The-CodingSloth/brainrot-games.git
+git clone https://github.com/PUT-HERE-LATER
 cd brainrot-games
 ```
 
@@ -28,6 +35,7 @@ npm install
 ```
 
 ## Running the Game
+Go to website at FUTURE LINK HERE. 
 
 ### Development Mode
 
@@ -53,66 +61,17 @@ To preview the production build locally:
 npm run preview
 ```
 
+
 ## Known Issues
 
-The game is still in development and definitely has a lot of bugs.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to Word Tuah, please follow these steps:
-
-1. **Fork the Repository**: Click the "Fork" button at the top right of this repository.
-
-2. **Clone Your Fork**:
-
-```bash
-git clone https://github.com/The-CodingSloth/brainrot-games.git
-cd brainrot-games
-```
-
-3. **Create a Branch**: Create a new branch for your feature or bugfix:
-
-```bash
-git checkout -b feature/your-feature-name
-```
-
-or
-
-```bash
-git checkout -b fix/your-bugfix-name
-```
-
-4. **Make Changes**: Implement your changes, following the existing code style.
-
-5. **Test Your Changes**: Make sure your changes work as expected and don't introduce new bugs (please. I'm too lazy to add tests)
-
-6. **Commit Your Changes**: Use clear and descriptive commit messages:
-
-```bash
-git commit -m "Add feature: your feature description"
-```
-
-7. **Push to Your Fork**:
-
-```bash
-git push origin feature/your-feature-name
-```
-
-8. **Create a Pull Request**: Go to the original repository and click "New Pull Request". Select your fork and branch, add a description of your changes, and submit.
-
-### Contribution Guidelines
-
-- Follow the existing code style and naming conventions.
-- Write clean, readable, and well-documented code.
-- Make sure your changes don't break existing functionality.
-- Add tests for new features when possible.
-- Update documentation as needed.
+According to the repo I forked "The game is still in development and definitely has a lot of bugs."
 
 ### Development Roadmap
 
-Some ideas for future development:
-
-- I'll think about it...
+- add animation to make the letters flip like a card! Make it feel like a card game! 
+- add more words 
+- make a toggle between Lenape Dialects (only has Southern Unami Dialect right now)
+- speaking of Southern Unami, creating an option to toggle with or without diacritics depending on what the user wants. 
 
 ## License
 
@@ -121,8 +80,21 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Inspiration from the original Wordle game
-- Thanks to all contributors and testers
+- Thanks to The-CodingSloth and all contributors and testers of CodingSloth's game so I could make this a basis for mine...thank you!/wanishi ta! 
 
----
+## Word Sources 
 
-Happy coding and game playing! 🎮
+Conversations in The Lenape Language 6th Edition by Shelley Depaul. 
+I used this article as a reference in editing the keyboard: https://www.talk-lenape.org/lessons?id=4 
+
+## Other
+[![About Me](https://img.shields.io/badge/About_Me-333333)](https://moorelanguage.github.io/moorelanguage/)    
+TLDR: I am a Lenape Language Learner and Enthusaist, I love exploring languages and building tools to support language learning and tools that are in Lenape. I usually use Python but sometimes I dabble in TypeScript for my unreleased Obsidian plugins and Javascript for a sodoku program I have. 
+I have some online projects:
+- [![Ultimate Lenape Language List](https://img.shields.io/badge/Ultimate_Lenape_Language_List-D50205)](https://https://github.com/moorelanguage/Ultimate-Lenape) a list that aims to list everything related to the Lenape Language in one github repo.
+- [![Tëmp Kaxkëni](https://img.shields.io/badge/Tëmp_Kaxkëni-B22222?)](https://github.com/moorelanguage/Temp-Kaxkeni) which is a reskin of Brainfuck in the Lenape Language. 
+- [![CLI Lenape Assistant](https://img.shields.io/badge/CLI_Lenape_Assistant-333333?logo=terminal&logoColor=fff)](https://github.com/moorelanguage/CLI-Lenape-Assistant) a command line assistant to help you do various tasks from the command line in English and Lenape.
+
+This is a fork of a program by The-CodingSloth. Wanishi ta!   
+Here's a badge to go to CodingSloth's channel:    
+[![TheCodingSloth](https://img.shields.io/badge/TheCodingSloth-6B8F71?logo=youtube&logoColor=fff)](https://www.youtube.com/@TheCodingSloth)
