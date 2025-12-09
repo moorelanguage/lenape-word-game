@@ -43,10 +43,6 @@ const ANIMATIONS = {
       },
     }),
   },
-    DEFAULT: { // exists to fix electron build issue.
-      scale: 1, 
-      opacity: 1,
-    },
     // Default state for idle tiles
     DEFAULT: {
       scale: 1, // Normal size
