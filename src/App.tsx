@@ -33,7 +33,7 @@ function App() {
     }
     return false;
   });
-  const [isSoundEnabled, setIsSoundEnabled] = useState(true);
+  // const [isSoundEnabled, setIsSoundEnabled] = useState(true);
   const gameBoardRef = useRef<GameBoardRef>(null);
 
   // Track the space positions in the target word
@@ -321,7 +321,7 @@ function App() {
         <Nav
           isDarkMode={isDarkMode}
           onThemeToggle={() => setIsDarkMode(!isDarkMode)}
-          onSoundToggle={() => setIsSoundEnabled(!isSoundEnabled)}
+          // onSoundToggle={() => setIsSoundEnabled(!isSoundEnabled)}
         />
       </header>
       <Modal
