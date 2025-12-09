@@ -18,7 +18,7 @@ See the Daily Changelog file for the Daily Changelog.
 - VS Code also as my IDE
 - [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 - Github pages for deployment 
-- 
+- [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
 
 ## Running the Game
 Navigate to https://moorelanguage.github.io/lenape-word-game/ and have fun! 
