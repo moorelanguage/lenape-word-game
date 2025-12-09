@@ -136,104 +136,239 @@
   }, 
   {
     "word": "yuh",
-    "definition": "you're welcome/okay",
+    "definition": "you're welcome/okay. Word does not have two o's at the end.",
     "length": 3
   }, 
   {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
+    "word": "yuhoo",
+    "definition": "you're welcome/okay. Word has two o's at the end.",
+    "length": 5
   },   
   {
+    "word": "e-e",
+    "definition": "yes in answer to a direction question",
+    "length": 3
+  }, 
+  {
+    "word": "na",
+    "definition": "the; that (animate)",
+    "length": 2
+  }, 
+  {
+    "word": "ku",
+    "definition": "no",
+    "length": 2
+  }, 
+  {
+    "word": "Nkatala",
+    "definition": "I want",
+    "length": 7
+  }, 
+  {
     "word": "mwekane",
     "definition": "dog",
     "length": 7
   }, 
+  {
+    "word": "ne",
+    "definition": "the; that (inanimate)",
+    "length": 2
+  }, 
+  {
+    "word": "katatamen",
+    "definition": "you want it",
+    "length": 9
+  }, 
+  {
+    "word": "chinkweyok",
+    "definition": "bobcats",
+    "length": 10
+  }, 
+  {
+    "word": "palenaxk",
+    "definition": "five/5",
+    "length": 8
+  }, 
+  {
+    "word": "shakhukwiyana",
+    "definition": "coats",
+    "length": 13
+  }, 
+  {
+    "word": "mili",
+    "definition": "give me",
+    "length": 4
+  }, 
+  {
+    "word": "newikwihela",
+    "definition": "I am tired",
+    "length": 12
+  }, 
+  {
+    "word": "ok",
+    "definition": "and",
+    "length": 2
+  }, 
+  {
+    "word": "mpalsi",
+    "definition": "I am sick",
+    "length": 6
+  }, 
+  {
+    "word": "xaskwim",
+    "definition": "corn",
+    "length": 7
+  }, 
+  {
+    "word": "ahtuhok",
+    "definition": "deer",
+    "length": 7
+  }, 
+  {
+    "word": "ksi",
+    "definition": "please",
+    "length": 3
+  }, 
+  {
+    "word": "wipunkwe",
+    "definition": "it is gray/grey (inanimate)",
+    "length": 8
+  },   
+  {
+    "word": "shakhukwiyan",
+    "definition": "coat",
+    "length": 12
+  }, 
+  {
+    "word": "ahikta",
+    "definition": "yes when you are agreeing with someone",
+    "length": 6
+  }, 
+  {
+    "word": "kexiti",
+    "definition": "a little",
+    "length": 6
+  }, 
+  {
+    "word": "konaet",
+    "definition": "prehaps/maybe",
+    "length": 6
+  }, 
+  {
+    "word": "xu",
+    "definition": "will/future marker",
+    "length": 2
+  }, 
+  {
+    "word": "sa",
+    "definition": "hush",
+    "length": 2
+  }, 
+  {
+    "word": "chitkwesi",
+    "definition": "be quiet/shut up",
+    "length": 9
+  }, 
+  {
+    "word": "wentaxa",
+    "definition": "come here",
+    "length": 7
+  }, 
+  {
+    "word": "nuwi",
+    "definition": "saying come here to a child",
+    "length": 4
+  }, 
+  {
+    "word": "atam",
+    "definition": "Let's go",
+    "length": 4
+  }, 
+  {
+    "word": "sipunk",
+    "definition": "at, to, in the river",
+    "length": 6
+  }, 
+  {
+    "word": "sesape",
+    "definition": "it is spotted (inanimate)",
+    "length": 6
+  }, 
+  {
+    "word": "sesapsu",
+    "definition": "[animate] is spotted",
+    "length": 7
+  }, 
+  {
+    "word": "kta",
+    "definition": "you go",
+    "length": 3
+  }, 
+  {
+    "word": "halapsi",
+    "definition": "hurry",
+    "length": 7
+  }, 
+  {
+    "word": "mpa",
+    "definition": "I come; I am coming",
+    "length": 3
+  }, 
+  {
+    "word": "neyo",
+    "definition": "I see (animate)",
+    "length": 4
+  }, 
+  {
+    "word": "nkawi",
+    "definition": "I am sleeping",
+    "length": 5
+  }, 
+  {
+    "word": "ahchu",
+    "definition": "hill; mountain",
+    "length": 5
+  }, 
+  {
+    "word": "ahchuo",
+    "definition": "hills; mountains",
+    "length": 6
+  }, 
+  {
+    "word": "nehenaonkesahpi",
+    "definition": "I ride horseback",
+    "length": 15
+  }, 
+  {
+    "word": "nishinxke",
+    "definition": "twenty; 20",
+    "length": 9
+  }, 
+  {
+    "word": "mexkalaniyat",
+    "definition": "red tailed hawk",
+    "length": 12
+  }, 
+  {
+    "word": "mexkalaniyatak",
+    "definition": "red tailed hawks",
+    "length": 14
+  },   
+  {
+    "word": "tekenink",
+    "definition": "at, to, in the woods",
+    "length": 8
+  }, 
+  {
+    "word": "nulhantes",
+    "definition": "lazy one; a lazy person",
+    "length": 9
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
   {
     "word": "mwekane",
     "definition": "dog",
@@ -248,7 +383,7 @@
     "word": "mwekane",
     "definition": "dog",
     "length": 7
-  }, 
+  },
   {
     "word": "mwekane",
     "definition": "dog",
@@ -263,7 +398,37 @@
     "word": "mwekane",
     "definition": "dog",
     "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
   }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
   {
     "word": "mwekane",
     "definition": "dog",
@@ -278,7 +443,7 @@
     "word": "mwekane",
     "definition": "dog",
     "length": 7
-  }, 
+  },
   {
     "word": "mwekane",
     "definition": "dog",
@@ -293,7 +458,7 @@
     "word": "mwekane",
     "definition": "dog",
     "length": 7
-  }, 
+  },
   {
     "word": "mwekane",
     "definition": "dog",
@@ -308,7 +473,7 @@
     "word": "mwekane",
     "definition": "dog",
     "length": 7
-  }, 
+  },
   {
     "word": "mwekane",
     "definition": "dog",
@@ -323,32 +488,7 @@
     "word": "mwekane",
     "definition": "dog",
     "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  }, 
-  {
-    "word": "mwekane",
-    "definition": "dog",
-    "length": 7
-  },    
+  },
   {
     "word": "taktani",
     "definition": "I don't know",
