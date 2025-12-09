@@ -17,26 +17,11 @@ See the Daily Changelog file for the Daily Changelog.
 - [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#) as my IDE
 - VS Code also as my IDE
 - [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/PUT-HERE-LATER
-cd brainrot-games
-```
-
-2. Install dependencies:
-
-```bash
-npm install
-```
+- Github pages for deployment 
+- 
 
 ## Running the Game
-
-### Download App
+Navigate to https://moorelanguage.github.io/lenape-word-game/ and have fun! 
 
 
 ### Development Mode
@@ -66,12 +51,14 @@ npm run preview
 
 ## Known Issues
 
-According to the repo I forked "The game is still in development and definitely has a lot of bugs."
+The logo placeholder doesn't render in github webapp. 
 
 ### Development Roadmap
+This Roadmap is in order of "sooner -> later" 
 
-- add animation to make the letters flip like a card! Make it feel like a card game! 
+- fix logo placeholder render 
 - add more words 
+- add animation to make the letters flip like a card! Make it feel like a card game! 
 - make a toggle between Lenape Dialects (only has Southern Unami Dialect right now)
 - speaking of Southern Unami, creating an option to toggle with or without diacritics depending on what the user wants. 
 
