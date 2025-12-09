@@ -53,11 +53,18 @@ const Keyboard: React.FC<KeyboardProps> = ({
     ['ENTER', '-', 'SPACE BAR', "'", 'BACKSPACE'],
   ];
 
+
+  // Handle key clicks safely, convert SPACE BAR to real space
   const handleKeyClick = (key: string) => {
-    if (!gameOver) {
+    if (gameOver) return; // ignore clicks if game is over
+
+    if (key === 'SPACE BAR') {
+      onKeyClick(' '); // send actual space
+    } else {
       onKeyClick(key);
     }
   };
+
 
   const handleKeyDown = (
     e: React.KeyboardEvent<HTMLButtonElement>,
