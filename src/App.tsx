@@ -320,7 +320,6 @@ function App() {
       <header>
         <Nav
           isDarkMode={isDarkMode}
-          isSoundEnabled={isSoundEnabled}
           onThemeToggle={() => setIsDarkMode(!isDarkMode)}
           onSoundToggle={() => setIsSoundEnabled(!isSoundEnabled)}
         />

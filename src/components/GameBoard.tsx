@@ -28,7 +28,7 @@ const ANIMATIONS = {
         // No pop scale, just a smooth flip
       scale: 1,
       opacity: 1,
-      transition: (wordLength: number, tileIndex: number) => ({
+      transition: (_: number, tileIndex: number) => ({
       backgroundColor: {
         duration: 0.3,            // color changes during flip
         delay: tileIndex * 0.1 + 0.3, // after rotation reaches halfway
@@ -43,6 +43,9 @@ const ANIMATIONS = {
       },
     }),
   },
+    DEFAULT: { // exists to fix electron build issue.
+      scale: 1, 
+      opacity: 1,
     },
     // Default state for idle tiles
     DEFAULT: {
@@ -200,7 +203,7 @@ const GameBoard = forwardRef<GameBoardRef, GameBoardProps>(
       
       setLastTypedIndex(newLastTypedIndex);
       
-      let scrollTimer: number | null = null;
+      let scrollTimer: number | NodeJS.Timeout;
       
       // Scroll to the active cell when typing
       if (newLastTypedIndex >= 0 && rowRefs.current[currentRow]) {
@@ -710,7 +713,7 @@ const GameBoard = forwardRef<GameBoardRef, GameBoardProps>(
                         };
                       } else {
                         // Default animation (static)
-                        tileAnimation = ANIMATIONS.TILE.DEFAULT;
+                        tileAnimation = ANIMATIONS.TILE.DEFAULT; 
                       }
 
                       // Get the final background color

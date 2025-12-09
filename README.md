@@ -35,7 +35,9 @@ npm install
 ```
 
 ## Running the Game
-Go to website at FUTURE LINK HERE. 
+
+### Download App
+
 
 ### Development Mode
 
