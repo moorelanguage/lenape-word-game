@@ -53,6 +53,7 @@ const ANIMATIONS = {
         damping: 30, // Moderate dampening (less bouncy)
       },
     },
+    }; // <-- THIS BRACE WAS MISSING
 } as const;
 
 interface GameBoardProps {
