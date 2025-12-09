@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/lenape-word-game/favico.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="description" content="A fun word guessing game with definition" />
+    <meta name="theme-color" content="#ffffff" />
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#121213" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Word Guessing Game</title>
+    <!-- Prevent flash of wrong theme -->
+    <style>
+        html.dark-mode {
+            background-color: #121213;
+            color: #ffffff;
+        }
+
+        html {
+            transition: background-color 0s !important;
+        }
+    </style>
+    <script>
+        // Check for saved theme preference or use system preference
+        const darkModePreferred =
+            localStorage.getItem('darkMode') === 'true' ||
+            (!localStorage.getItem('darkMode') &&
+                window.matchMedia('(prefers-color-scheme: dark)').matches);
+
+        if (darkModePreferred) {
+            document.documentElement.classList.add('dark-mode');
+        } else {
+            document.documentElement.classList.remove('dark-mode');
+        }
+    </script>
+  <script type="module" crossorigin src="/lenape-word-game/assets/index-CccdFTZ3.js"></script>
+  <link rel="stylesheet" crossorigin href="/lenape-word-game/assets/index-naEgBoCb.css">
+</head>
+
+<body>
+    <div id="root"></div>
+</body>
+
+</html>
