@@ -5,7 +5,7 @@ import ghPages from 'vite-plugin-gh-pages'
 
 export default defineConfig({
   plugins: [react(), tailwindcss(), ghPages()],
-  base: './',            // ensures relative paths for Android
+  base: '/',           
   build: {
     outDir: 'dist',      // output folder
     emptyOutDir: true,   // clear folder before building
