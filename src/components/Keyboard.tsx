@@ -49,7 +49,7 @@ const Keyboard: React.FC<KeyboardProps> = ({
 
   const rows = [
     ['A', 'C', 'H', 'I', 'K', 'L', 'M', 'N'],
-    ['O', 'P', 'S', 'T', 'U', 'X', 'Y'],
+    ['O', 'P', 'S', 'T', 'U', 'W', 'X', 'Y'],
     ['ENTER', '-', "'", 'BACKSPACE'],
   ];
 
