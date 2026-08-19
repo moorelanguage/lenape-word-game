@@ -365,6 +365,506 @@
     "length": 9
   }, 
   {
+    "word": "xintxke",
+    "definition": "30; thirty",
+    "length": 8
+  },  
+  {
+    "word": "xintxke ok kweti",
+    "definition": "31; thirty one",
+    "length": 15
+  }, 
+  {
+    "word": "xintxke ok nisha",
+    "definition": "32; thirty two",
+    "length": 16
+  }, 
+  {
+    "word": "xintxke ok naxa",
+    "definition": "33; thirty three",
+    "length": 15
+  },
+  {
+    "word": "xintxke ok newa",
+    "definition": "34; thirty four",
+    "length": 15
+  }, 
+  {
+    "word": "xintxke ok palenaxk",
+    "definition": "35; thirty five",
+    "length": 19
+  }, 
+  {
+    "word": "xintxke ok kwetash",
+    "definition": "36; thirty six",
+    "length": 18
+  },
+   {
+    "word": "xintxke ok nishash",
+    "definition": "37; thirty seven",
+    "length": 18
+  }, 
+  {
+    "word": "xintxke ok xash",
+    "definition": "38; thirty eight",
+    "length": 15
+  }, 
+  {
+    "word": "xintxke ok peshkunk",
+    "definition": "39; thirty nine",
+    "length": 19
+  },
+   {
+    "word": "nulhatun",
+    "definition": "I have it",
+    "length": 8
+  }, 
+  {
+    "word": "kulhatun",
+    "definition": "you have it",
+    "length": 8
+  }, 
+  {
+    "word": "pe",
+    "definition": "he comes",
+    "length": 2
+  },
+  {
+    "word": "teme",
+    "definition": "wolf",
+    "length": 4
+  }, 
+  {
+    "word": "temeyok",
+    "definition": "wolves",
+    "length": 7
+  }, 
+  {
+    "word": "kshikan",
+    "definition": "knife",
+    "length": 7
+  },
+  {
+    "word": "kshikana",
+    "definition": "knives",
+    "length": 8
+  }, 
+  {
+    "word": "machitam",
+    "definition": "let's go home",
+    "length": 8
+  }, 
+  {
+    "word": "mitsitam",
+    "definition": "Let's eat",
+    "length": 8
+  },
+  {
+    "word": "aon",
+    "definition": "fog; it is foggy",
+    "length": 3
+  }, 
+  {
+    "word": "the",
+    "definition": "it is cold",
+    "length": 3
+  }, 
+  {
+    "word": "nemachi",
+    "definition": "i go home",
+    "length": 7
+  },
+  {
+    "word": "kemachi",
+    "definition": "you go home",
+    "length": 7
+  }, 
+  {
+    "word": "ki",
+    "definition": "you",
+    "length": 2
+  }, 
+  {
+    "word": "machi",
+    "definition": "to go home",
+    "length": 5
+  },
+  {
+    "word": "ni",
+    "definition": "I; me; my",
+    "length": 2
+  },  
+  {
+    "word": "Tahashi",
+    "definition": "never",
+    "length": 7
+  }, 
+  {
+    "word": "Neyo",
+    "definition": "I see him/her",
+    "length": 4
+  }, 
+  {
+    "word": "ika",
+    "definition": "there",
+    "length": 3
+  },
+  {
+    "word": "Penaw",
+    "definition": "look (animate)",
+    "length": 7
+  }, 
+  {
+    "word": "Kelesta",
+    "definition": "Listen",
+    "length": 7
+  }, 
+  {
+    "word": "awen",
+    "definition": "person; who; someone",
+    "length": 7
+  },
+   {
+    "word": "Xuniti",
+    "definition": "soon",
+    "length": 6
+  }, 
+  {
+    "word": "kshilan",
+    "definition": "it rains hard",
+    "length": 7
+  }, 
+  {
+    "word": "Niskelan",
+    "definition": "it is drizzling",
+    "length": 8
+  },
+   {
+    "word": "ahchunk",
+    "definition": "at, to, in the hill/mountain",
+    "length": 7
+  }, 
+  {
+    "word": "yu tali",
+    "definition": "here, in this place",
+    "length": 7
+  }, 
+  {
+    "word": "wechia",
+    "definition": "I wonder",
+    "length": 6
+  },
+  {
+    "word": "xkwitahtene",
+    "definition": "on top of the mountain",
+    "length": 11
+  }, 
+  {
+    "word": "punihi",
+    "definition": "leave me alone",
+    "length": 6
+  }, 
+  {
+    "word": "tupan",
+    "definition": "there is frost",
+    "length": 5
+  },
+  {
+    "word": "wine",
+    "definition": "it is snowing",
+    "length": 4
+  }, 
+  {
+    "word": "pahsukwi",
+    "definition": "get up (from sitting)",
+    "length": 8
+  }, 
+  {
+    "word": "ala",
+    "definition": "stop",
+    "length": 3
+  },
+  {
+    "word": "nishahpihena",
+    "definition": "we ride together (same horse)",
+    "length": 12
+  }, 
+  {
+    "word": "Mushhakunk",
+    "definition": "at, to, in the sky",
+    "length": 10
+  }, 
+  {
+    "word": "Shkakw",
+    "definition": "Skunk",
+    "length": 6
+  },
+  {
+    "word": "Chinkwe",
+    "definition": "bobcat",
+    "length": 7
+  }, 
+  {
+    "word": "xanikw",
+    "definition": "squirrel",
+    "length": 6
+  }, 
+  {
+    "word": "chahkol",
+    "definition": "frog",
+    "length": 7
+  },
+  {
+    "word": "kelak",
+    "definition": "clock; o'clock",
+    "length": 5
+  },  
+  {
+    "word": "amwi",
+    "definition": "to get up from a lying position",
+    "length": 4
+  }, 
+  {
+    "word": "nulhantuwakan",
+    "definition": "laziness",
+    "length": 13
+  }, 
+  {
+    "word": "nulhantuwak",
+    "definition": "they are lazy",
+    "length": 11
+  },
+  {
+    "word": "nulhantet",
+    "definition": "little lazy one",
+    "length": 9
+  }, 
+  {
+    "word": "nulhantsak",
+    "definition": "lazy people",
+    "length": 10
+  }, 
+  {
+    "word": "nulhantewamalsi",
+    "definition": "i feel lazy",
+    "length": 15
+  },
+   {
+    "word": "nulhant",
+    "definition": "I am lazy",
+    "length": 7
+  }, 
+  {
+    "word": "puniw",
+    "definition": "leave him alone",
+    "length": 5
+  }, 
+  {
+    "word": "punitu",
+    "definition": "leave it alone",
+    "length": 6
+  },
+   {
+    "word": "pemapanik",
+    "definition": "sky",
+    "length": 9
+  }, 
+  {
+    "word": "mushhakot",
+    "definition": "the sky is clear",
+    "length": 9
+  }, 
+  {
+    "word": "mushhakunk",
+    "definition": "at, to, in the sky",
+    "length": 10
+  },
+  {
+    "word": "nehenaonkes",
+    "definition": "horse",
+    "length": 11
+  }, 
+  {
+    "word": "nehenaonkesahpi",
+    "definition": "I ride horseback",
+    "length": 15
+  }, 
+  {
+    "word": "Nishahpihena",
+    "definition": "we ride together on the same horse",
+    "length": 12 
+  },
+  {
+    "word": "punihi",
+    "definition": "leave me alone",
+    "length": 6
+  }, 
+  {
+    "word": "punitu",
+    "definition": "leave it alone",
+    "length": 6
+  }, 
+  {
+    "word": "puniw",
+    "definition": "leave him alone",
+    "length": 5
+  },
+  {
+    "word": "ala",
+    "definition": "stop",
+    "length": 3
+  }, 
+  {
+    "word": "pahsukwi",
+    "definition": "get up (from sitting)",
+    "length": 8
+  }, 
+  {
+    "word": "tupan",
+    "definition": "there is frost",
+    "length": 5
+  },
+  {
+    "word": "the",
+    "definition": "it is cold",
+    "length": 3
+  }, 
+  {
+    "word": "xkwitahtene",
+    "definition": "on top of the mountain",
+    "length": 11 
+  }, 
+  {
+    "word": "wechia",
+    "definition": "i wonder",
+    "length": 6
+  },
+  {
+    "word": "xintxke",
+    "definition": "30",
+    "length": 7
+  },  
+  {
+    "word": "xintxke ok kweti",
+    "definition": "31",
+    "length": 16
+  }, 
+  {
+    "word": "xintxke ok nisha",
+    "definition": "32",
+    "length": 16
+  }, 
+  {
+    "word": "xintxke ok naxa",
+    "definition": "33",
+    "length": 15
+  },
+  {
+    "word": "xintxke ok newa",
+    "definition": "34",
+    "length": 15
+  }, 
+  {
+    "word": "xintxke ok palenaxk",
+    "definition": "35",
+    "length": 19
+  }, 
+  {
+    "word": "xintxke ok kwetash",
+    "definition": "36",
+    "length": 18
+  },
+   {
+    "word": "xintxke ok nishash",
+    "definition": "37",
+    "length": 18
+  }, 
+  {
+    "word": "xintxke ok xash",
+    "definition": "38",
+    "length": 15
+  }, 
+  {
+    "word": "xintxke ok peshkunk",
+    "definition": "39",
+    "length": 19
+  },
+   {
+    "word": "kpa",
+    "definition": "you come",
+    "length": 3
+  }, 
+  {
+    "word": "alemi",
+    "definition": "he begins to; to begin",
+    "length": 5
+  }, 
+  {
+    "word": "kumhokot",
+    "definition": "it is cloudy",
+    "length": 8
+  },
+  {
+    "word": "te",
+    "definition": "it is cold",
+    "length": 2
+  }, 
+  {
+    "word": "nipen",
+    "definition": "summer",
+    "length": 5
+  }, 
+  {
+    "word": "tahkoken",
+    "definition": "autumn/fall",
+    "length": 8
+  },
+  {
+    "word": "pena",
+    "definition": "look at it; look!",
+    "length": 4
+  }, 
+  {
+    "word": "tani hech kta",
+    "definition": "where are you going?",
+    "length": 13
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
     "word": "mwekane",
     "definition": "dog",
     "length": 7
@@ -489,6 +989,2516 @@
     "definition": "dog",
     "length": 7
   },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },    
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },   
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },   
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },  
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+   {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  }, 
+  {
+    "word": "mwekane",
+    "definition": "dog",
+    "length": 7
+  },   
   {
     "word": "taktani",
     "definition": "I don't know",

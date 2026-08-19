@@ -71,11 +71,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Inspiration from the original Wordle game
 - Thanks to The-CodingSloth and all contributors and testers of CodingSloth's game so I could make this a basis for mine...thank you!/wanishi ta! 
 
-## Word Sources 
-
-Conversations in The Lenape Language 6th Edition by Shelley Depaul. 
-I used this article as a reference in editing the keyboard: https://www.talk-lenape.org/lessons?id=4 
-
 ## Other
 [![About Me](https://img.shields.io/badge/About_Me-333333)](https://moorelanguage.github.io/moorelanguage/)    
 TLDR: I am a Lenape Language Learner and Enthusaist, I love exploring languages and building tools to support language learning and tools that are in Lenape. I usually use Python but sometimes I dabble in TypeScript for my unreleased Obsidian plugins and Javascript for a sodoku program I have. 

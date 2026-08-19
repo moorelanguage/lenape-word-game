@@ -1,5 +1,23 @@
 This changelog summarizes changes I've made. I'm writing this by hand.   
 
+## 2026-08-18
+adding more words
+
+## 2026-08-03
+edited README.   
+
+## 2026-05-12
+worked on adding more words.
+
+## 2026-02-16
+added correct definition for "yu tali", added on 02-09, as before it was slightly wrong with (DOUBLE CHECK) next to it. The incorrect defintion was never public.   
+
+## 2026-02-09
+working on adding more words. 
+
+## 2026-01-19 
+working on adding more words. 
+
 ## 2025-12-08
 Fixed bugs, worked on making an electron app. I fixed bugs that interfered with making the electron app. Also worked on making an android apk version with Capacitor, which revealed more bugs to fix. Worked on getting github pages hosting up. I focused on github pages after I had to attend to another duty, deciding to leave electron and andriod apk for later and putting it andriod and electron in my gitignore. I also fixed a major issue in keyboard.tsx and other issues.
 
