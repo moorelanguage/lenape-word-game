@@ -1,7 +1,10 @@
 This changelog summarizes changes I've made. I'm writing this by hand.   
 
 ## 2026-08-18
-adding more words. removing logo. false alarm about a bug regarding light/dark mode. 
+- Added more words.
+- Removed the unused logo.
+- Investigated a suspected light/dark mode bug; determined it was a false alarm.
+- Fixed an issue preventing the updated code from being deployed to the GitHub Pages site.
 
 ## 2026-08-03
 edited README.   
