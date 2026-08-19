@@ -48,6 +48,9 @@ To preview the production build locally:
 npm run preview
 ```
 
+### Known issues
+you are very likely to get the word for dog but I promise there's more than just dog, it's a side effect of how the .json containing the words is structured while I'm adding words.
+
 ### Development Roadmap
 This Roadmap is in order of "sooner -> later" 
 

@@ -7,6 +7,7 @@ This changelog summarizes changes I've made. I'm writing this by hand.
 - Investigated a suspected light/dark mode bug; determined the original suspicion was a false alarm.
 - Fixed an issue preventing updated code from being deployed to GitHub Pages.
 - Fixed a regression introduced while investigating the suspected theme bug.
+- added to known issues "you are very likely to get the word for dog but I promise there's more than just dog, it's a side effect of how the .json containing the words is structured while I'm adding words."
 
 ## 2026-08-03
 edited README.   
