@@ -3,8 +3,10 @@ This changelog summarizes changes I've made. I'm writing this by hand.
 ## 2026-08-18
 - Added more words.
 - Removed the unused logo.
-- Investigated a suspected light/dark mode bug; determined it was a false alarm.
-- Fixed an issue preventing the updated code from being deployed to the GitHub Pages site.
+- Changed the theme-toggle moon emoji.
+- Investigated a suspected light/dark mode bug; determined the original suspicion was a false alarm.
+- Fixed an issue preventing updated code from being deployed to GitHub Pages.
+- Fixed a regression introduced while investigating the suspected theme bug.
 
 ## 2026-08-03
 edited README.   

@@ -48,11 +48,6 @@ To preview the production build locally:
 npm run preview
 ```
 
-
-## Known Issues
-
-The logo placeholder doesn't render in github webapp. 
-
 ### Development Roadmap
 This Roadmap is in order of "sooner -> later" 
 
