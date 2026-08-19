@@ -58,7 +58,6 @@ This Roadmap is in order of "sooner -> later"
 
 - add more words 
 - fix logo placeholder render 
-- when you toggle dark mode light mode goes back on
 ~~- add animation to make the letters flip like a card! Make it feel like a card game! ~~ scrapped idea for now
 - make a toggle between Lenape Dialects (only has Southern Unami Dialect right now)
 - speaking of Southern Unami, creating an option to toggle with or without diacritics depending on what the user wants. 

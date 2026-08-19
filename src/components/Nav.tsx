@@ -9,7 +9,6 @@ interface NavProps {
 const Nav: React.FC<NavProps> = ({ isDarkMode, onThemeToggle }) => (
   <nav className="nav" role="navigation" aria-label="Main navigation">
     <div className="nav-left">
-      <img src="/favico.png" alt="Logo" className="nav-logo" width={20} height={20} />
       <h1 className="nav-title">Word</h1>
     </div>
     <div className="nav-right">
@@ -22,7 +21,7 @@ const Nav: React.FC<NavProps> = ({ isDarkMode, onThemeToggle }) => (
         aria-pressed={isDarkMode}
         type="button"
       >
-        {isDarkMode ? '☀️' : '🌙'}
+        {isDarkMode ? '☀️' : '🌕'}
       </motion.button>
     </div>
   </nav>

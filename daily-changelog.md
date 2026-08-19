@@ -1,7 +1,7 @@
 This changelog summarizes changes I've made. I'm writing this by hand.   
 
 ## 2026-08-18
-adding more words and updated readme as I found another bug so I put it on the roadmap to fix. 
+adding more words. removing logo. false alarm about a bug regarding light/dark mode. 
 
 ## 2026-08-03
 edited README.   
