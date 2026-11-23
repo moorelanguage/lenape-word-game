@@ -620,7 +620,9 @@
 /* Add focus states for better keyboard navigation */
 .key:focus-visible,
 .modal-button:focus-visible,
-.nav-button:focus-visible {
+.nav-button:focus-visible,
+.word-count-button:focus-visible,
+.word-count-counter:focus-visible {
   outline: 3px solid var(--present-color);
   outline-offset: 2px;
   position: relative;

@@ -4,6 +4,7 @@ Only instead of Word Tuah it would be a serious Lenape Language word guessing ga
 Development started on 2025-12-07, idea on 2025-12-06. 2025-12-08 at 1:56 AM is when this fork went public. 
 See the Daily Changelog file for the Daily Changelog.  
 
+
 ## Tech Stack
 
 - React
@@ -70,13 +71,19 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Thanks to The-CodingSloth and all contributors and testers of CodingSloth's game so I could make this a basis for mine...thank you!/wanishi ta! 
 
 ## Other
-[![About Me](https://img.shields.io/badge/About_Me-333333)](https://moorelanguage.github.io/moorelanguage/)    
-TLDR: I am a Lenape Language Learner and Enthusaist, I love exploring languages and building tools to support language learning and tools that are in Lenape. I usually use Python but sometimes I dabble in TypeScript for my unreleased Obsidian plugins and Javascript for a sodoku program I have. 
+I am a Lenape Language Learner and Enthusaist, I love exploring languages and building tools to support language learning and tools that are in Lenape. 
 I have some online projects:
-- [![Ultimate Lenape Language List](https://img.shields.io/badge/Ultimate_Lenape_Language_List-D50205)](https://https://github.com/moorelanguage/Ultimate-Lenape) a list that aims to list everything related to the Lenape Language in one github repo.
+- ![Munsee Dialect Lenape Language Unix Timestamps](https://github.com/moorelanguage/Munsee-Dialect-Unix-Timestamps) which is a program takes the current Unix timestamp and gives you the Unix timestamp in the Munsee Dialect of Lenape.
 - [![Tëmp Kaxkëni](https://img.shields.io/badge/Tëmp_Kaxkëni-B22222?)](https://github.com/moorelanguage/Temp-Kaxkeni) which is a reskin of Brainfuck in the Lenape Language. 
-- [![CLI Lenape Assistant](https://img.shields.io/badge/CLI_Lenape_Assistant-333333?logo=terminal&logoColor=fff)](https://github.com/moorelanguage/CLI-Lenape-Assistant) a command line assistant to help you do various tasks from the command line in English and Lenape.
+
 
 This is a fork of a program by The-CodingSloth. Wanishi ta!   
 Here's a badge to go to CodingSloth's channel:    
 [![TheCodingSloth](https://img.shields.io/badge/TheCodingSloth-6B8F71?logo=youtube&logoColor=fff)](https://www.youtube.com/@TheCodingSloth)
+
+## Sources for Words 
+- talk-lenape.org 
+- enx eeden 
+- conversations in the lenape language 6th edition textbook 
+- Mukurtu Midwest Munsee Dictionary 
+- John O'Meara's dictionary of the munsee dialect 

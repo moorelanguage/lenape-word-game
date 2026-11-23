@@ -327,7 +327,7 @@ function App() {
       <Modal
         isOpen={showModal}
         onClose={startNewGame}
-        title={gameWon ? '🎉 Congratulations!' : '😔 Game Over'}
+        title={gameWon ? '🎉 kulalukasi ta! (you did a good job!)' : 'wikwe ne papuwakàn (the game is ended)'}
         word={targetWord}
         definition={wordDefinition}
         isWin={gameWon}

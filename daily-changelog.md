@@ -1,5 +1,26 @@
 This changelog summarizes changes I've made. I'm writing this by hand.   
 
+## 2026-11-23
+- commited changes to github
+
+## 2026-11-22
+- changed english 'congratulations' in app.tsx to 'kulalukasi ta!' which means 'you did a good job!'
+- changed english 'game over' to 'wikwe ne papuwakàn' which means 'the game is ended'
+- updated readme with word sources 
+- started working on 'Words' feature, which shows the word count of how many unique words are in the Word Game, will fully implement once you can select between multiple dialects
+- removed hovering when you put your mouse over the dark/light mode toggle
+- adjusted button size of light/dark mode toggle
+- changed from emoji to 'dark' and 'light' for dark and light mode options for clarity.
+- adjusted other section in README
+- messed around with munsee dialect keyboard 
+- Adjusted top left corner from 'Word' into 'Word Game' 
+- edited index.html
+
+## 2026-11-21 
+- Added more words. (Note to self: words to add include 'Nkamwink', 'Nkàmwin', etc.)
+- experimented with adding munsee dialect, made a munsee dialect words file and a keyboard for munsee dialect for app. 
+- added some words to munsee words file
+
 ## 2026-08-18
 - Added more words.
 - Removed the unused logo.
