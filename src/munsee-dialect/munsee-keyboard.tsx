@@ -83,7 +83,7 @@ const Keyboard: React.FC<KeyboardProps> = ({
   const rows = [
     ['a', 'b', 'c', 'ŭ', 'd', 'k', 'g', 'e', 'i', 'o', 'u'],
     ['h', 'j', 'l', 'm', 'n', 'p', 's', 'x', 'z', 't', 'w'],
-    ['ENTER', '-', 'SPACE BAR', "'", 'BACKSPACE'],
+    ['ENTER', '-', "'", 'BACKSPACE'], // SPACE BAR made it look *aesthetic* but. there's no real need for it so removing it.
   ];
 
   const handleKeyClick = (key: string) => {

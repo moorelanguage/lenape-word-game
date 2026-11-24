@@ -1,5 +1,9 @@
 This changelog summarizes changes I've made. I'm writing this by hand.   
 
+## 2026-11-24
+- removed SPACE BAR bug. How: SPACE BAR made it look *aesthetic* but. there's no real need for it so removing it. The program automatically does a space when needed + looking at it a second time I think it actually might look better 
+- removed SPACE BAR bug from list of known issues
+
 ## 2026-11-23
 - commited changes from previous two days to github, not live on site yet
 - after commiting worked on dialect switching feature and tested it 

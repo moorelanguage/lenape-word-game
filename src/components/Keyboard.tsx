@@ -50,7 +50,7 @@ const Keyboard: React.FC<KeyboardProps> = ({
   const rows = [
     ['A', 'C', 'H', 'I', 'E', 'K', 'L', 'M', 'N'],
     ['O', 'P', 'S', 'T', 'U', 'W', 'X', 'W', 'Y'],
-    ['ENTER', '-', 'SPACE BAR', "'", 'BACKSPACE'],
+    ['ENTER', '-', "'", 'BACKSPACE'], // SPACE BAR made it look *aesthetic* but. there's no real need for it so removing it.
   ];
 
   const handleKeyClick = (key: string) => {

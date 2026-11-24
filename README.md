@@ -54,8 +54,6 @@ you are very likely to get the word for dog (in unami option) but I promise ther
 
 Munsee dialect has less words than unami dialect. I am working on adding more words to both. 
 
-just discovered new bug: SPACE BAR just adds the text 'SPACE BAR' into code. Adding to known issues, too late to fix tonight. Documenting here because I just discovered it and cannot fix it right away. It will be fixed and thus removed from Known Issues ASAP. 
-
 ### Development Roadmap
 This Roadmap is in order of "sooner -> later" 
 
