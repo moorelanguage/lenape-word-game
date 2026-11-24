@@ -10,6 +10,7 @@ This changelog summarizes changes I've made. I'm writing this by hand.
 - modified 'known issues' in readme to include specifity that the dog thing is more likely to be in unami dialect, with and in munsee dialect. 
 - modified 'known issues' in readme to include that Munsee dialect has less words than unami dialect. I make it clear I am working on adding more words to both so this will not be an issue for long. Transparency is important however.
 - committed counter and dialect switching changes to github, changes will be live on site.
+- just discovered new bug: SPACE BAR just adds the text 'SPACE BAR' into code. Adding to known issues, too late to fix tonight.
 
 ## 2026-11-22
 - changed english 'congratulations' in app.tsx to 'kulalukasi ta!' which means 'you did a good job!'
