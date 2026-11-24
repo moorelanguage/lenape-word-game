@@ -1,7 +1,15 @@
 This changelog summarizes changes I've made. I'm writing this by hand.   
 
 ## 2026-11-23
-- commited changes to github
+- commited changes from previous two days to github, not live on site yet
+- after commiting worked on dialect switching feature and tested it 
+- after implementing dialect switch feature I realized I had a bug in the munsee-keyboard feature I started yesterday so I fixed it. 
+- added words 
+- enabled counter featured implemented yesterday and made sure it matched the other buttons
+- adjusted counter button to fit with other buttons
+- modified 'known issues' in readme to include specifity that the dog thing is more likely to be in unami dialect, with and in munsee dialect. 
+- modified 'known issues' in readme to include that Munsee dialect has less words than unami dialect. I make it clear I am working on adding more words to both so this will not be an issue for long. Transparency is important however.
+- committed counter and dialect switching changes to github, changes will be live on site.
 
 ## 2026-11-22
 - changed english 'congratulations' in app.tsx to 'kulalukasi ta!' which means 'you did a good job!'

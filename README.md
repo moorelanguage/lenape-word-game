@@ -50,7 +50,9 @@ npm run preview
 ```
 
 ### Known issues
-you are very likely to get the word for dog but I promise there's more than just dog, it's a side effect of how the .json containing the words is structured while I'm adding words.
+you are very likely to get the word for dog (in unami option) but I promise there's more than just dog, it's a side effect of how the .json containing the words is structured while I'm adding words. In the munsee option you are likely to get the word for 'and'.
+
+Munsee dialect has less words than unami dialect. I am working on adding more words to both. 
 
 ### Development Roadmap
 This Roadmap is in order of "sooner -> later" 

@@ -2,9 +2,10 @@ import { useState, useEffect, useCallback, useRef } from 'react';
 import { motion } from 'motion/react';
 import './App.css';
 import './Wordle.css';
-import { getRandomWord, getWordDefinition } from './wordList';
+import { getRandomWord, getWordDefinition, Dialect } from './wordList';
 import GameBoard, { GameBoardRef } from './components/GameBoard';
 import Keyboard from './components/Keyboard';
+import MunseeKeyboard from './munsee-dialect/munsee-keyboard';
 import Title from './components/Title';
 import Modal from './components/Modal';
 import Toast from './components/Toast';
@@ -12,6 +13,10 @@ import Nav from './components/Nav';
 import Footer from './components/Footer';
 
 function App() {
+  const [dialect, setDialect] = useState<Dialect>(() => {
+    const savedDialect = localStorage.getItem('dialect');
+    return savedDialect === 'munsee' ? 'munsee' : 'unami';
+  });
   const [targetWord, setTargetWord] = useState<string>('');
   const [wordDefinition, setWordDefinition] = useState<string>('');
   const [guesses, setGuesses] = useState<string[]>(Array(6).fill(''));
@@ -45,9 +50,9 @@ function App() {
   const [screenWidth, setScreenWidth] = useState<number>(window.innerWidth);
 
   const startNewGame = useCallback(() => {
-    const newWord = getRandomWord();
+    const newWord = getRandomWord(dialect);
     setTargetWord(newWord);
-    setWordDefinition(getWordDefinition(newWord) || '');
+    setWordDefinition(getWordDefinition(newWord, dialect) || '');
     setGuesses(Array(6).fill(''));
     setCurrentGuess('');
     setCurrentRow(0);
@@ -70,9 +75,14 @@ function App() {
     }
 
     //console.log('New word:', newWord); // For debugging
+  }, [dialect]);
+
+  const handleDialectChange = useCallback((nextDialect: Dialect) => {
+    setDialect(nextDialect);
+    localStorage.setItem('dialect', nextDialect);
   }, []);
 
-  // Initialize the game with a random word
+  // Initialize the game and start a new one whenever the dialect changes
   useEffect(() => {
     startNewGame();
   }, [startNewGame]);
@@ -180,7 +190,7 @@ function App() {
           setCurrentGuess((prev) => prev.slice(0, -1));
         }
       } else if (
-        /^[A-Z]$/.test(key) &&
+        /^[^0-9\s]$/.test(key) &&
         currentGuess.length < targetWord.length
       ) {
         // Get the next position to type at (skipping spaces)
@@ -321,6 +331,8 @@ function App() {
         <Nav
           isDarkMode={isDarkMode}
           onThemeToggle={() => setIsDarkMode(!isDarkMode)}
+          dialect={dialect}
+          onDialectChange={handleDialectChange}
           // onSoundToggle={() => setIsSoundEnabled(!isSoundEnabled)}
         />
       </header>
@@ -328,6 +340,9 @@ function App() {
         isOpen={showModal}
         onClose={startNewGame}
         title={gameWon ? '🎉 kulalukasi ta! (you did a good job!)' : 'wikwe ne papuwakàn (the game is ended)'}
+        // this is in southern unami dialect. with multiple dialect support 
+        // i can either have a munsee dialect ver, keep as is, or go back to english 
+        // TODO: decide later newikwihela kelak yukwe. 
         word={targetWord}
         definition={wordDefinition}
         isWin={gameWon}
@@ -366,13 +381,23 @@ function App() {
           screenWidth={screenWidth}
         />
 
-        <Keyboard
-          guesses={guesses}
-          currentRow={currentRow}
-          targetWord={targetWord}
-          gameOver={gameOver}
-          onKeyClick={handleKeyClick}
-        />
+        {dialect === 'munsee' ? (
+          <MunseeKeyboard
+            guesses={guesses}
+            currentRow={currentRow}
+            targetWord={targetWord}
+            gameOver={gameOver}
+            onKeyClick={handleKeyClick}
+          />
+        ) : (
+          <Keyboard
+            guesses={guesses}
+            currentRow={currentRow}
+            targetWord={targetWord}
+            gameOver={gameOver}
+            onKeyClick={handleKeyClick}
+          />
+        )}
       </main>
       <Footer />
     </div>

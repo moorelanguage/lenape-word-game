@@ -24,7 +24,7 @@ const Counter = () => {
 
   const lenapeUnique = getUniqueWords(words);
   const munseeUnique = getUniqueWords(munseeWords);
-  const combinedUnique = new Set([...lenapeUnique, ...munseeUnique]);
+  {/* const combinedUnique = new Set([...lenapeUnique, ...munseeUnique]); */}
 
   return (
     <div className="word-count-counter" style={{ position: 'relative' }}>
@@ -57,7 +57,8 @@ const Counter = () => {
         >
           <div><strong>Unami dialect:</strong> {lenapeUnique.size} unique words</div>
           <div style={{ marginTop: '0.35rem' }}><strong>Munsee dialect:</strong> {munseeUnique.size} unique words</div>
-          <div style={{ marginTop: '0.35rem' }}><strong>Combined:</strong> {combinedUnique.size} unique words</div>
+          {/* <div style={{ marginTop: '0.35rem' }}><strong>Combined:</strong> {combinedUnique.size} unique words</div> */} 
+          {/* interesting for me but might confuse users as you cannot do two dialects at once. so not showing it. interesting for me. might uncomment in development occasionally. */}
         </div>
       )}
     </div>
