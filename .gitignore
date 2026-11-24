@@ -22,7 +22,19 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-/electron 
 /release
 /dist 
 /android
+
+## sanity
+node_modules/
+dist/
+release/
+electron/dist/
+electron/*.log
+.env
+.env.*
+!.env.example
+/release
+V39.2.6
+electron.exe 

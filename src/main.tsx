@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client'
 // import { app, BrowserWindow } from 'electron';
 import './index.css'
 import App from './App.tsx'
+import './theme' // experiment
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

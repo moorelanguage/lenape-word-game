@@ -86,4 +86,5 @@ Here's a badge to go to CodingSloth's channel:
 - enx eeden 
 - conversations in the lenape language 6th edition textbook 
 - Mukurtu Midwest Munsee Dictionary 
+- quizlet.com/user/VNNicholas/sets munsee flashcards
 - John O'Meara's dictionary of the munsee dialect 
