@@ -15,9 +15,27 @@ export const WORDS = wordsData as WordEntry[];
 export const MUNSEE_WORDS = munseeWordsData as WordEntry[];
 
 // Check if all words are only alphabet characters and spaces
+//const getDialectWords = (dialect: Dialect = 'unami'): WordEntry[] => {
+  //const entries = dialect === 'munsee' ? MUNSEE_WORDS : WORDS;
+  //return entries.filter((entry) => entry.word.match(/^[^\d]*$/));
+//};
+
+// fix to make the words gotten fully unique words 
 const getDialectWords = (dialect: Dialect = 'unami'): WordEntry[] => {
   const entries = dialect === 'munsee' ? MUNSEE_WORDS : WORDS;
-  return entries.filter((entry) => entry.word.match(/^[^\d]*$/));
+  const uniqueWords = new Map<string, WordEntry>();
+
+  for (const entry of entries) {
+    if (!/^[^\d]*$/.test(entry.word)) continue;
+
+    const normalizedWord = entry.word.trim().toLowerCase();
+
+    if (normalizedWord && !uniqueWords.has(normalizedWord)) {
+      uniqueWords.set(normalizedWord, entry);
+    }
+  }
+
+  return Array.from(uniqueWords.values());
 };
 
 // Function to get a random word from the list
