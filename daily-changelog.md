@@ -7,6 +7,7 @@ This changelog summarizes changes I've made. I'm writing this by hand.
 - removed this from list of known issues: "you are very likely to get the word for dog (in unami option) but I promise there's more than just dog, it's a side effect of how the .json containing the words is structured while I'm adding words. In the munsee option you are likely to get the word for 'and'."
 - added words to both words.json (unami dialect) and munsee-words.json (munsee dialect)
 - worked on electron build so people can play game offline
+- removed toggle from roadmap as it has been implemented
 
 ## 2026-11-23
 - commited changes from previous two days to github, not live on site yet
