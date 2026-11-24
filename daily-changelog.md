@@ -8,6 +8,7 @@ This changelog summarizes changes I've made. I'm writing this by hand.
 - added words to both words.json (unami dialect) and munsee-words.json (munsee dialect)
 - worked on electron build so people can play game offline
 - removed toggle from roadmap as it has been implemented
+- found and fixed bug, accidentally added words without removing diacritics
 
 ## 2026-11-23
 - commited changes from previous two days to github, not live on site yet
