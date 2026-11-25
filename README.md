@@ -104,3 +104,4 @@ Here's a badge to go to CodingSloth's channel:
 - [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 - [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) 
 - [![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)](#)
+- [![MIT License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
