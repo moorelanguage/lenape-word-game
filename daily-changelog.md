@@ -9,6 +9,21 @@ This changelog summarizes changes I've made. I'm writing this by hand.
 - worked on electron build so people can play game offline
 - removed toggle from roadmap as it has been implemented
 - found and fixed bug, accidentally added words without removing diacritics
+- made a testing program that tests the words lengths, for my use and potential future contributors use 
+- fixed 12 entries
+    - Unami: fixed 'newikwihela' — 12 -> 11
+    - Unami: fixed 'xintxke' — 8 -> 7
+    - Unami: fixed 'xintxke ok kweti' — 15 -> 16
+    - Unami: fixed 'Penaw' — 7 -> 5
+    - Unami: fixed 'awen' — 7 -> 4
+    - Unami: fixed 'Mimentet' — 9 -> 8
+    - The other entries I had not gotten to adding lengths yet, but the tool automatically added lengths. This could be used to bypass manually adding the length entirely which could cut down on time adding words.
+- simplified tech stack area in README and added Badges to the very end of the read me as a bonus section. 
+    - also removed notepad++ as IDE as I haven't used that as an IDE for this project in awhile, kept VS Code
+- made Table of Contents for README
+- improved README inital summary of project
+- added two sections to Running The Game, splitting it into website and Electron, with electron coming soon.
+
 
 ## 2026-11-23
 - commited changes from previous two days to github, not live on site yet

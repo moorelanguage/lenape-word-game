@@ -1,30 +1,39 @@
 # Word guessing game 
-This repo will contain a fork of Word Tuah, a brain rot version of Wordle made by The-CodingSloth. 
-Only instead of Word Tuah it would be a serious Lenape Language word guessing game with a definition. 
-Development started on 2025-12-07, idea on 2025-12-06. 2025-12-08 at 1:56 AM is when this fork went public. 
-See the Daily Changelog file for the Daily Changelog.  
+This repo is for a Lenape Language Word game, which has support for Unami and Munsee Dialects.
+See the [Daily Changelog](daily-changelog.md) file for the Daily Changelog.  
+    brief history: Development started on 2025-12-07, idea on 2025-12-06. 2025-12-08 at 1:56 AM is when this fork went public. 
+Game Link: https://moorelanguage.github.io/lenape-word-game/ 
+
+## Running the Game
+### Website
+Navigate to https://moorelanguage.github.io/lenape-word-game/ and have fun! 
+
+### Electron
+I am currently working on development for the electron app so this game can be played offline
+
+## Table of Contents 
+- [Running the game](#running-the-game)
+- [Tech Stack](#tech-stack)
+- [Development-Related](#development-related)
+    - includes roadmap and known issues
+- [License](#license)
+- [Acknowledgements](#acknowledgments) 
+- [Other](#other)
+- [Sources for Words](#sources-for-words)
+- [Badges](#badges)
 
 
 ## Tech Stack
 
 - React
-- [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)  
 - TypeScript
-- [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 - Vite
-- [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 - Motion for animations
-- Notepad++ as my IDE
-- [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#) as my IDE
 - VS Code also as my IDE
-- [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 - Github pages for deployment 
-- [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
+- Electron for desktop application
 
-## Running the Game
-Navigate to https://moorelanguage.github.io/lenape-word-game/ and have fun! 
-
-
+## Development-Related 
 ### Development Mode
 
 To run the game in development mode with hot reloading:
@@ -87,3 +96,11 @@ Here's a badge to go to CodingSloth's channel:
 - Mukurtu Midwest Munsee Dictionary 
 - quizlet.com/user/VNNicholas/sets munsee flashcards
 - John O'Meara's dictionary of the munsee dialect 
+
+## Badges 
+- [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)  
+- [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
+- [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+- [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+- [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) 
+- [![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)](#)
