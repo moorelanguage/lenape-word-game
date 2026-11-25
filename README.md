@@ -29,7 +29,7 @@ I am currently working on development for the electron app so this game can be p
 - TypeScript
 - Vite
 - Motion for animations
-- VS Code also as my IDE
+- VS Code as my IDE
 - Github pages for deployment 
 - Electron for desktop application
 
