@@ -23,6 +23,8 @@ This changelog summarizes changes I've made. I'm writing this by hand.
 - made Table of Contents for README
 - improved README inital summary of project
 - added two sections to Running The Game, splitting it into website and Electron, with electron coming soon.
+- renamed variable while working on docs
+- readded combined word count feature
 
 
 ## 2026-11-23

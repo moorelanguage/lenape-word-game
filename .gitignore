@@ -39,3 +39,6 @@ electron/*.log
 V39.2.6
 electron.exe 
 
+## personal notes for development, stuff that will be added to contributing.md if I ever allow contributing.
+## essentially documentation
+shortcuts.md 

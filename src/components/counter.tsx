@@ -22,9 +22,9 @@ const getUniqueWords = (entries: WordEntry[]): Set<string> => {
 const Counter = () => {
   const [isVisible, setIsVisible] = useState(false);
 
-  const lenapeUnique = getUniqueWords(words);
+  const unamiUnique = getUniqueWords(words); // i wanna rename to unami. I mean. I guess it makes sense I hear the unami dialect called 'Lenape' and the Munsee dialect reffered to as 'Munsee' a lot. But maybe that's because I'm mainly learning/speaking unami dialect. // ah fuck it lets see if its better. i'll have to update the docs though to include new name.
   const munseeUnique = getUniqueWords(munseeWords);
-  {/* const combinedUnique = new Set([...lenapeUnique, ...munseeUnique]); */}
+  const combinedUnique = new Set([...unamiUnique, ...munseeUnique]); // if i make it clearer it won't matter
 
   return (
     <div className="word-count-counter" style={{ position: 'relative' }}>
@@ -55,10 +55,11 @@ const Counter = () => {
             /*fontSize: '0.85rem',*/
           }}
         >
-          <div><strong>Unami dialect:</strong> {lenapeUnique.size} unique words</div>
+          <div><strong>Unami dialect:</strong> {unamiUnique.size} unique words</div>
           <div style={{ marginTop: '0.35rem' }}><strong>Munsee dialect:</strong> {munseeUnique.size} unique words</div>
-          {/* <div style={{ marginTop: '0.35rem' }}><strong>Combined:</strong> {combinedUnique.size} unique words</div> */} 
+          <div style={{ marginTop: '0.35rem' }}><strong>Combined:</strong> {combinedUnique.size} unique words accross both game modes</div> 
           {/* interesting for me but might confuse users as you cannot do two dialects at once. so not showing it. interesting for me. might uncomment in development occasionally. */}
+          {/* NOW it should be clear that its accross both game modes and that dialects aren't mixed. */}
         </div>
       )}
     </div>

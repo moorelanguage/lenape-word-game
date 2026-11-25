@@ -30,21 +30,13 @@ const stopChildren = () => {
 
 const path = require('node:path');
 
-const electronExecutable = isWindows
-  ? path.resolve(
-      process.cwd(),
-      'node_modules',
-      'electron',
-      'dist',
-      'electron.exe'
-    )
-  : path.resolve(
-      process.cwd(),
-      'node_modules',
-      'electron',
-      'dist',
-      'electron'
-    );
+const electronExecutable = process.platform === 'win32' // windows not hardcoded
+  ? path.resolve(process.cwd(), 'node_modules/electron/dist/electron.exe')
+  : path.resolve(process.cwd(), 'node_modules/electron/dist/electron');
+// windows and linux support right now for electron
+// I do not have a mac. 
+// I'm not gonna try to add mac support when I can't even test it 
+
 
 const electron = spawn(electronExecutable, ['.'], {
   cwd: process.cwd(),
