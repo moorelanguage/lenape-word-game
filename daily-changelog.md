@@ -1,5 +1,10 @@
 This changelog summarizes changes I've made. I'm writing this by hand.   
 
+## 2026-11-25
+- working on documentation 
+    - counter.tsx 
+    - dialect-switch.tsx
+
 ## 2026-11-24
 - removed SPACE BAR bug. How: SPACE BAR made it look *aesthetic* but. there's no real need for it so removing it. The program automatically does a space when needed + looking at it a second time I think it actually might look better 
 - removed SPACE BAR bug from list of known issues
@@ -25,6 +30,7 @@ This changelog summarizes changes I've made. I'm writing this by hand.
 - added two sections to Running The Game, splitting it into website and Electron, with electron coming soon.
 - renamed variable while working on docs
 - readded combined word count feature
+- ended day with 257 words in combined count.
 
 
 ## 2026-11-23
